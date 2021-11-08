@@ -21,7 +21,7 @@
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": "2082134407:AAEM0sYEZy64Qq3dRQjYUhcgJ17q1YbFvCc"
+            "value": ""
         },
         "DB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
